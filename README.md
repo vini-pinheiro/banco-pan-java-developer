@@ -1,2 +1,3 @@
-# banco-pan-java-developer
-Repositório criado para armazenar as anotações das aulas e projeto deste Bootcamp, Banco PAN Java Developer.
+# Bootcamp Banco Pan Java Developer
+
+Repositório criado para armazenar as anotações das aulas e projetos do bootcamp Banco PAN Java Developer.
